@@ -21,9 +21,9 @@ Library:
 - import seaborn as sns
 
 Documentation:
-📖 Документация Matplotlib
-📖 Документация Seaborn
-📖 Панды Dokumentation
+- [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
+- [Seaborn](https://seaborn.pydata.org/tutorial.html)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 
 Analysis:
 - ![image](https://user-images.githubusercontent.com/92888200/145472887-84aa1ee3-61ae-45ee-afea-d7eed419ce69.png)
